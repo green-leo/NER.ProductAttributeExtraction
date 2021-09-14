@@ -7,5 +7,6 @@ Small and Plus version of CRF in Sequence Labeling <br />
 - Feature Function for SVM, GBT, CRF model
 - clean_data.py: mormalize title functions
 - doccano2fully.py: convert annotations from doccano format to "fully" format, <br />
-  and clean the data by clean_data.py functions; extract the data into lists of words, labels, etc
+  and clean the data by clean_data.py functions; <br />
+  extract the data into lists of words, labels, etc
 
